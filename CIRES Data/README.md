@@ -1,5 +1,7 @@
 This folder includes the pseudo-acceleration for each [CIRES (Centro de Instrumentacion y REgistros Sismico, a. c.)](http://www.cires.org.mx/) station for the North-South and East-West directions.
-The seismic recordings for the 2017 Puebla earthquake can be accessed at [CIRES Busqueda de registros](http://www.cires.org.mx/registro_es.php).
+
+
+The raw seismic recordings for the 2017 Puebla earthquake can be accessed at [CIRES Busqueda de registros](http://www.cires.org.mx/registro_es.php).
 The seismic recordings were processed in Matlab and [SeismoSignal](https://seismosoft.com/product/seismosignal/).
 
 
