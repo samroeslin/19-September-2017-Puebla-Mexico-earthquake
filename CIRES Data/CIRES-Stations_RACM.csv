@@ -1,0 +1,62 @@
+﻿CIRES_Station_Name,CIRES_Station_ID,Latitude,Longitude,Zone,Soil_Type(Spanish)
+CE18,EQ11,19.3398,-99.0847,Zone I,"Arenoso, limoso, compacto"
+CS78,EQ21,19.3656,-99.2262,Zone I,"Arenoso, limoso, compacto "
+FJ74,EQ28,19.299,-99.21,Zone I,"Arenoso, limoso, compacto"
+MT50,EQ41,19.4253,-99.19,Zone I,"Arenoso, limoso, compacto"
+PA34,EQ45,19.2016,-99.0491,Zone I,"Arenoso, limoso, compacto"
+TP13,EQ55,19.2922,-99.1708,Zone I,"Terreno firme, materiales compactos (limos, arenas, gravas)"
+UI21,EQ57,19.37,-99.2642,Zone I,"Terreno firme, materiales compactos (limos, arenas, gravas)"
+AU46,EQ6,19.3832,-99.1681,Zone II,Transición 
+CO47,EQ18,19.3714,-99.1703,Zone II,"Terreno estratificado (arcillas, limos, arenas)"
+DR16,EQ24,19.5005,-99.1829,Zone II,Transición 
+DX37,EQ25,19.3322,-99.1439,Zone II,"Terreno blando, material compresible (arcillas)"
+EO30,EQ26,19.3885,-99.1772,Zone II,Transición 
+GR27,EQ31,19.4747,-99.1797,Zone II,"Terreno estratificado (arcillas, limos, arenas)"
+ME52,EQ39,19.4383,-99.182,Zone II,Transición
+AO24,EQ3,19.358,-99.1539,Zone IIIa,Transición
+CH84,EQ14,19.33,-99.1254,Zone IIIa,Alto riesgo sísmico 
+ES57,EQ27,19.4017,-99.1775,Zone IIIa,"Terreno estratificado (arcillas, limos, arenas)"
+IB22,EQ33,19.345,-99.1297,Zone IIIa,Alto riesgo sísmico
+JC54,EQ35,19.313,-99.1272,Zone IIIa,"Arcilloso, zona lago"
+LI33,EQ36,19.3064,-98.9631,Zone IIIa,"Terreno blando, material compresible (arcillas)"
+LV17,EQ38,19.4931,-99.1275,Zone IIIa,"Terreno blando, material compresible (arcillas)"
+MI15,EQ40,19.2834,-99.1253,Zone IIIa,"Terreno blando, material compresible (arcillas)"
+SI53,EQ50,19.3753,-99.1483,Zone IIIa,"Terreno blando, material compresible (arcillas)"
+UC44,EQ56,19.4337,-99.1654,Zone IIIa,Alto riesgo sísmico
+AL01,EQ2,19.4356,-99.1453,Zone IIIb,"Terreno blando, material compresible (arcillas)"
+BL45,EQ8,19.4253,-99.1481,Zone IIIb,"Terreno blando, material compresible (arcillas)"
+CI05,EQ15,19.4186,-99.1653,Zone IIIb,"Terreno blando, material compresible (arcillas)"
+CJ03,EQ16,19.4097,-99.1567,Zone IIIb,"Terreno blando, material compresible (arcillas)"
+CJ04,EQ17,19.4098,-99.1566,Zone IIIb,Alto riesgo sísmico
+CO56,EQ19,19.4215,-99.159,Zone IIIb,Alto riesgo sísmico
+GA62,EQ29,19.4385,-99.1401,Zone IIIb,"Arcilloso, zona lago"
+GC38,EQ30,19.3161,-99.1059,Zone IIIb,Alto riesgo sísmico
+LI58,EQ37,19.4263,-99.1569,Zone IIIb,Alto riesgo sísmico
+PE10,EQ47,19.3809,-99.1318,Zone IIIb,"Arcilloso, zona lago"
+RM48,EQ49,19.4359,-99.128,Zone IIIb,"Arcilloso, zona lago"
+SP51,EQ51,19.3656,-99.1189,Zone IIIb,"Terreno blando, material compresible (arcillas)"
+TL08,EQ53,19.45,-99.1336,Zone IIIb,"Arcilloso, zona lago"
+TL55,EQ54,19.4536,-99.1425,Zone IIIb,"Terreno blando, material compresible (arcillas)"
+VG09,EQ58,19.4539,-99.1225,Zone IIIb,"Terreno blando, material compresible (arcillas)"
+AP68,EQ4,19.3809,-99.1068,Zone IIIc,"Arcilloso, zona lago"
+BA49,EQ7,19.4097,-99.145,Zone IIIc,"Terreno blando, material compresible (arcillas)"
+BO39,EQ9,19.4653,-99.1047,Zone IIIc,"Terreno blando, material compresible (arcillas)"
+CA59,EQ10,19.4258,-99.1183,Zone IIIc,"Terreno blando, material compresible (arcillas)"
+CU80,EQ22,19.2938,-99.1037,Zone IIIc,"Arcilloso, zona lago"
+HJ72,EQ32,19.4251,-99.1301,Zone IIIc,Alto riesgo sísmico
+JA43,EQ34,19.4053,-99.125,Zone IIIc,"Terreno blando, material compresible (arcillas)"
+MY19,EQ42,19.3461,-99.0433,Zone IIIc,"Terreno blando, material compresible (arcillas)"
+RI76,EQ48,19.4473,-99.1,Zone IIIc,"Arcilloso, zona lago"
+VM29,EQ59,19.3811,-99.1253,Zone IIIc,"Terreno blando, material compresible (arcillas)"
+XP06,EQ61,19.4198,-99.1353,Zone IIIc,Alto riesgo sísmico
+AE02,EQ1,19.429,-99.0584,Zone IIId,"Arcilloso, zona lago"
+AU11,EQ5,19.3919,-99.0869,Zone IIId,"Terreno blando, material compresible (arcillas)"
+CE23,EQ12,19.4619,-99.0642,Zone IIId,"Terreno blando, material compresible (arcillas)"
+CE32,EQ13,19.3858,-99.0537,Zone IIId,"Arcilloso, zona lago  "
+CP28,EQ20,19.4385,-99.0839,Zone IIId,"Arenoso, limoso, compacto"
+DM12,EQ23,19.4312,-99.0963,Zone IIId,"Arcilloso, zona lago"
+NZ20,EQ43,19.4027,-99,Zone IIId,"Arcilloso, zona lago"
+NZ31,EQ44,19.4167,-99.0247,Zone IIId,"Terreno blando, material compresible"
+PD42,EQ46,19.4055,-99.0997,Zone IIId,"Arcilloso, zona lago"
+TH35,EQ52,19.2786,-99,Zone IIId,"Terreno blando, material compresible (arcillas)"
+XO36,EQ60,19.2711,-99.1024,Zone IIId,Alto riesgo sísmico
