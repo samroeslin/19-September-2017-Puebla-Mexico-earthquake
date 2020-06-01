@@ -8,4 +8,4 @@ Python code for the processing of seismic recordings can be found at [gmpe-smtk/
 
 The pseudo-acceleration for the [CIRES (Centro de Instrumentacion y REgistros Sismico, a. c.)](http://www.cires.org.mx/) stations (North-South and East-West directions) are in the folder CIRES data.
 
-The jupyter notebook **[Spectrum 2017 Puebla Mexico earthquake.ipynb](https://github.com/sroe459/2017-Puebla-Mexico-earthquake/blob/master/Spectrum%202017%20Puebla%20Mexico%20earthquake.ipynb)** includes the code for plotting the spectrum. It uses [plotly](https://plotly.com/python/) to get intearctive graphs. The notebook can be displayed using [jupyternbviewer](https://nbviewer.jupyter.org/).
+The jupyter notebook **[Spectrum 2017 Puebla Mexico earthquake.ipynb](https://github.com/sroe459/2017-Puebla-Mexico-earthquake/blob/master/Spectrum%202017%20Puebla%20Mexico%20earthquake.ipynb)** includes the code for plotting the spectra. It uses [plotly](https://plotly.com/python/) to get intearctive graphs. The notebook can be displayed using [jupyternbviewer](https://nbviewer.jupyter.org/).
