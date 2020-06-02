@@ -13,5 +13,5 @@ The jupyter notebook **[Spectrum 2017 Puebla Mexico earthquake.ipynb](https://gi
 
 
 # Building damage
-Information on building damage can be found in
-Colegio de Ingenieros Civiles de México (CICM). (2017). Sismo Mexico - Mapas. https://www.sismosmexico.org/mapas
+Information on building damage can be found in:
+- Colegio de Ingenieros Civiles de México (CICM). (2017). Sismo Mexico - Mapas. https://www.sismosmexico.org/mapas
