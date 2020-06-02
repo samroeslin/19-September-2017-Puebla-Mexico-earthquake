@@ -9,7 +9,7 @@ Python code for the processing of seismic recordings can be found at [gmpe-smtk/
 
 The pseudo-acceleration for the [CIRES (Centro de Instrumentacion y REgistros Sismico, a. c.)](http://www.cires.org.mx/) stations (North-South and East-West directions) are in the folder CIRES data.
 
-Plots fot the response spectrum can be seen at **[Spectrum 2017 Puebla Mexico earthquake.ipynb](https://nbviewer.jupyter.org/github/sroe459/2017-Puebla-Mexico-earthquake/blob/master/Spectrum%202017%20Puebla%20Mexico%20earthquake.ipynb)**
+Plots fot the response spectrum can be seen in **[Spectrum 2017 Puebla Mexico earthquake.ipynb](https://nbviewer.jupyter.org/github/sroe459/2017-Puebla-Mexico-earthquake/blob/master/Spectrum%202017%20Puebla%20Mexico%20earthquake.ipynb)**
 
 # Building damage
 Information on building damage can be found in:
