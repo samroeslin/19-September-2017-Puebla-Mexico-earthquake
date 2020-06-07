@@ -1,4 +1,4 @@
-﻿T(s),Zone I (code),Zone I (elastic),Zone II (code),Zone II (elastic),Zone IIIa (code),Zone IIIa (elastic),Zone IIIb (code),Zone IIIb (elastic),Zone IIIc (code),Zone IIIc (elastic),Zone IIId (code),Zone IIId (elastic)
+﻿T(s),Zone I (overstrength 2),Zone I (elastic),Zone II (overstrength 2),Zone II (elastic),Zone IIIa (overstrength 2),Zone IIIa (elastic),Zone IIIb (overstrength 2),Zone IIIb (elastic),Zone IIIc (overstrength 2),Zone IIIc (elastic),Zone IIId (overstrength 2),Zone IIId (elastic)
 0,0.04,0.08,0.08,0.16,0.1,0.2,0.11,0.22,0.1,0.2,0.1,0.2
 0.01,0.046,0.092,0.092,0.184,0.105660377,0.211320755,0.114,0.228,0.1024,0.2048,0.102352941,0.204705882
 0.02,0.052,0.104,0.104,0.208,0.111320755,0.222641509,0.118,0.236,0.1048,0.2096,0.104705882,0.209411765
