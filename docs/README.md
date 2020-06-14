@@ -1,7 +1,7 @@
 # Seismic recordings
-The raw seismic recordings for the 2017 Puebla earthquake can be accessed at [CIRES Busqueda de registros](http://www.cires.org.mx/registro_es.php) and [La Red Acelerográfica del IIUNAM (RAII-UNAM)](https://aplicaciones.iingen.unam.mx/AcelerogramasRSM/Inicio.aspx)
+The raw seismic recordings for the 2017 Puebla earthquake can be accessed at [CIRES Busqueda de registros](http://www.cires.org.mx/registro_es.php) and [RAII-UNAM Strong Motion Database](https://aplicaciones.iingen.unam.mx/AcelerogramasRSM/Inicio.aspx).
 
-An overview of the CIRES recording stations is available at: [Red Acelerográfica de la Ciudad de Mexico, RACM, CIRES](http://www.cires.org.mx/racm_mapa/index.php)
+An overview of the CIRES recording stations is available at [Red Acelerográfica de la Ciudad de Mexico, RACM, CIRES](http://www.cires.org.mx/racm_mapa/index.php). Information on the IIUNAM's Strong Motion Network (RAII-UNAM) can be found at [The IIUNAM's Strong Motion Network (RAII-UNAM)](https://aplicaciones.iingen.unam.mx/AcelerogramasRSM/RedAcelerografica.aspx).
 
 
 # Response spectra
