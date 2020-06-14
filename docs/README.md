@@ -1,15 +1,18 @@
-# Seismic recording
-An overview of the CIRES recording stations is available at: http://www.cires.org.mx/racm_mapa/index.php
-The raw seismic recordings for the 2017 Puebla earthquake can be accessed at [CIRES Busqueda de registros](http://www.cires.org.mx/registro_es.php).
-The seismic recordings were processed in Matlab and [SeismoSignal](https://seismosoft.com/product/seismosignal/).
+# Seismic recordings
+The raw seismic recordings for the 2017 Puebla earthquake can be accessed at [CIRES Busqueda de registros](http://www.cires.org.mx/registro_es.php) and [La Red Acelerográfica del IIUNAM (RAII-UNAM)](https://aplicaciones.iingen.unam.mx/AcelerogramasRSM/Inicio.aspx)
+
+An overview of the CIRES recording stations is available at: [Red Acelerográfica de la Ciudad de Mexico, RACM, CIRES](http://www.cires.org.mx/racm_mapa/index.php)
+
 
 # Response spectra
-The recorded data was processed in Matlab.
-Python code for the processing of seismic recordings can be found at [gmpe-smtk/smtk/response_spectrum.py](https://github.com/GEMScienceTools/gmpe-smtk/blob/master/smtk/response_spectrum.py)
+The seismic recordings were processed in Matlab and [SeismoSignal](https://seismosoft.com/product/seismosignal/).
 
 The pseudo-acceleration for the [CIRES (Centro de Instrumentacion y REgistros Sismico, a. c.)](http://www.cires.org.mx/) stations (North-South and East-West directions) are in the folder CIRES data.
 
 Plots fot the response spectrum can be seen in **[Spectrum 2017 Puebla Mexico earthquake.ipynb](https://nbviewer.jupyter.org/github/sroe459/2017-Puebla-Mexico-earthquake/blob/master/Spectrum%202017%20Puebla%20Mexico%20earthquake.ipynb)**
+
+Python code for the processing of seismic recordings can be found at [gmpe-smtk/smtk/response_spectrum.py](https://github.com/GEMScienceTools/gmpe-smtk/blob/master/smtk/response_spectrum.py)
+
 
 # Building damage
 Information on building damage can be found in:
