@@ -18,6 +18,7 @@ Python code for the processing of seismic recordings can be found at [gmpe-smtk/
 
 # Building damage
 Information on building damage can be found in:
+- Roeslin, S., Juárez-Garcia, H., Elwood, K., Dhakal, R., & Gómez-Bernal, A. (2020). The September 19th, 2017 Puebla, Mexico earthquake. Bulletin of the New Zealand Society for Earthquake Engineering, 53(3), 150-172. https://doi.org/10.5459/bnzsee.53.3.150-172
 - Colegio de Ingenieros Civiles de México (CICM). (2017). [Sismo Mexico - Mapas](https://www.sismosmexico.org/mapas)
 - Colegio de Ingenieros Civiles de México (CICM). (2017). [Resumen preliminar de danos de los inmeubles inspeccionados por las brigadas del CICM del sismo del 19/09/2017 (in Spanish)](https://bb73d1f9-fa3c-4648-8b09-83941d2bbc33.filesusr.com/ugd/3e775b_6e4fff6862c749069396975e7c7f9a01.pdf)
 - Earthquake Engineering Research Institute (EERI) [Mw 7.1 Puebla, Mexico Clearinghouse, September 19, 2017](http://www.learningfromearthquakes.org/2017-09-19-puebla-mexico/)
